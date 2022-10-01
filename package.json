@@ -1,7 +1,6 @@
 {
   "name": "cast_2_cloud_lab",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +19,6 @@
   "homepage": "https://github.com/Pramodhraj/CAST_2_Cloud_Lab#readme",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "description": ""
 }
